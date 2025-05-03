@@ -48,6 +48,8 @@
 
 **Dành cho team:** Editor, Cameraman, Director.
 
+🔗 [Repository for Media Production Context](https://github.com/KuraiantoPentagon/Media-Production)
+
 ---
 
 ### 3. **Design & Branding Context**
@@ -64,6 +66,8 @@
 * `DesignTemplate`
 
 **Dành cho team:** Designer, Branding.
+
+🔗 [Repository for Design & Branding Context](https://github.com/KuraiantoPentagon/Design-Branding)
 
 ---
 
@@ -84,6 +88,8 @@
 
 **Dành cho team:** Marketing, Data.
 
+🔗 [Repository for Channel Growth & Marketing Context](https://github.com/KuraiantoPentagon/Channel-Growth-Marketing)
+
 ---
 
 ### 5. **Community & Partnership Context**
@@ -102,6 +108,8 @@
 
 **Dành cho team:** Community, Sales, Partnership.
 
+🔗 [Repository for Community & Partnership Context](https://github.com/KuraiantoPentagon/Community-Partnership)
+
 ---
 
 ### 6. **Operations & HR Context**
@@ -119,6 +127,8 @@
 * `WorkCalendar`
 
 **Dành cho team:** Quản lý, hành chính, kế toán.
+
+🔗 [Repository for Operations & HR Context](https://github.com/KuraiantoPentagon/Operations-HR)
 
 ---
 
