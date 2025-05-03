@@ -29,6 +29,8 @@
 
 **Dành cho team:** Production, Planning, PM.
 
+🔗 [Repository for Content Planning Context](https://github.com/KuraiantoPentagon/Content-Planning)
+
 ---
 
 ### 2. **Media Production Context**
