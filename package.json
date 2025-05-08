@@ -1,0 +1,29 @@
+{
+  "name": "kpentagon",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/KuraiantoPentagon/.github#readme",
+  "bugs": {
+    "url": "https://github.com/KuraiantoPentagon/.github/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuraiantoPentagon/.github.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "ecosystem.config.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}

@@ -8,6 +8,16 @@ module.exports = {
             env: {
                 NODE_ENV: "production"
             }
+        },
+        {
+            name: "channel-growth",
+            script: "Channel-Growth-Marketing/src/main.ts",
+            interpreter: "./node_modules/.bin/tsx",
+            args: "tsx",
+            watch: false,
+            env: {
+                NODE_ENV: "production"
+            }
         }
     ]
 };
